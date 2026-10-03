@@ -21,4 +21,4 @@ class Solution:
         if len(stack)==numCourse:
             return stack[::-1] 
         else:
-            return -1
+            return []
